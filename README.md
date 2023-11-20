@@ -1,5 +1,5 @@
 # CodSoft_task1
-# Beginner's Landing Page Project
+# Traveling Landing Page 
 
 # Project Overview
 The landing page project involves:
